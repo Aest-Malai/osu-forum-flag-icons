@@ -1,6 +1,9 @@
 # osu-forum-flag-icons
 > A collection of all country flags in PNG set to size 20x20 which is in line with osu! forum posts default font size
 
+Have you ever tried making a tournament post on osu! forum? It takes some time, especially after I realized that they don't have easily accessible country flags as icons.
+I decided to create this repo to make this process easier and assist any future tournament hosts.
+
 ## Usage
 You can download or link directly images from this repo to your post (I recommend /flags/3x4/).
 To make it easier to use, I have shortened the url by redirecting them from my domain. You can use http://flag.malai.monster/XX.png to get the image, where XX is the two letter country code.
